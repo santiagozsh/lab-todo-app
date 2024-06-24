@@ -4,4 +4,5 @@ import todoStore from './src/store/todo.store'
 
 todoStore.initStore();
 
+// Inicializacion!
 App('#app');  
